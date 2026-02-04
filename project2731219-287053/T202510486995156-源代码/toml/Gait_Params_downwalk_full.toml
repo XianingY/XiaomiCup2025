@@ -1,0 +1,4966 @@
+# Gait Params
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150.0, 150000.0,]
+value = 1
+duration = 300
+
+[[step]]
+mode = 11
+gait_id = 110
+contact = 17
+life_count = 0
+vel_des = [ 0.35, 0.0, 0.0,]
+rpy_des = [ 0.0, 0.0, 0.0,]
+pos_des = [ 0.0, 0.0, -0.5,]
+acc_des = [ 20.0, 25.0, 30.0, 10.0, 10.0, 50.0,]
+ctrl_point = [ 0.12, 0.0, 0.25,]
+foot_pose = [ 0.12, 0.0, 0.12, 0.0, 0.12, 0.0,]
+step_height = [ 150000.0, 150.0,]
+value = 1
+duration = 300
+
